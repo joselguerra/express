@@ -1,3 +1,8 @@
+New Release
+===========
+
+Adding stuff to an existing file by Jose Guerra
+
 unreleased
 ==========
 
